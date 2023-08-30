@@ -1,5 +1,6 @@
-# HCAlert
-Discord Bot to Alert on WoW Classic Hardcore Deaths and Level Up  
+# HC Alert
+Hardcore Alert
+- Discord Bot to Alert on World of Warcraft Classic Hardcore Deaths and Level Up  
 
 Pictures are worth a thousand words so here is what it looks like:  
 

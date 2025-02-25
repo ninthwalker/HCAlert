@@ -14,7 +14,7 @@ Here is the Support Discord for help or more info.
   
 Stay Alert, Stay Alive!  
 
-#### Bot Commands
+### Bot Commands
 
 **Primary slash command: `/hcalert`**
 
@@ -25,7 +25,7 @@ Stay Alert, Stay Alive!
 ie: If set to 2, alerts will go out for lvl's 10, 12, 14.. Default is 2.
 - **Guild:** Select 'Yes' if this is a guild and not a character.
 
-#### Subcommands:
+### Subcommands:
 - **Add**  
 Adds a new character or guild for death or level up alerts. Realm & Char/Guild name are required, other fields are optional.
 `<realm> <char/guild name> <alert type> <Min. char level>[10 min, default: 10] <level increment>[default: 2] <guild>`
